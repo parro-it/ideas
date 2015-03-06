@@ -1,5 +1,5 @@
 # ideas
-This repo contains ideas for future modules
+This repo contains ideas for future node modules I want to build
 
 If you come here, feel free to open an issue to point me to an existing one that already exists or to purpose a collaboration to actually get it done.
 
