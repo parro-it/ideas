@@ -4,8 +4,8 @@ This repo contains ideas for future node modules I want to build
 If you come here, feel free to open an issue to point me to an existing one that already exists or to purpose a collaboration to actually get it done.
 
 <s>* A module to open issue on GH or Bitbucket via command line
-* A module to create a GH or Bitbucket repo via command line
-  (for github, use http://mikedeboer.github.io/node-github)</s>
+<s>* A module to create a GH or Bitbucket repo via command line
+<s>  (for github, use http://mikedeboer.github.io/node-github)
 
 For this two, i'll use https://github.com/node-gh/gh
 
