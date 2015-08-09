@@ -3,12 +3,4 @@ This repo contains ideas for future node modules I want to build
 
 If you come here, feel free to open an issue to point me to an existing one that already exists or to purpose a collaboration to actually get it done.
 
-<s>* A module to open issue on GH or Bitbucket via command line
-<s>* A module to create a GH or Bitbucket repo via command line
-<s>  (for github, use http://mikedeboer.github.io/node-github)
-
-For this two, i'll use https://github.com/node-gh/gh
-
-* A module to import issues on GH or Bitbucket from md file containing list of issues 
-* A module to create a gist via command line (I think it already exists, I'll investigate)
-* A module to simulate node Response and request object using fetch interfaces, to allow implementation of a node server in browser serviceworker 
+[Request a JavaScript module](https://github.com/parro-it/ideas/issues/new?body=Contributing%20guidelines%3A%0A-%20Search%20https%3A%2F%2Fwww.npmjs.com%20and%20the%20issue%20tracker%20before%20opening%20an%20issue.%0A-%20Succinctly%20describe%20what%20you're%20looking%20for%20and%20use%20a%20descriptive%20title.) you wish existed or [get ideas for modules](https://github.com/parro-it/ideas/issues).
